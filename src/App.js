@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './Aitor-Lancharro.png';
 import './App.css';
 
 function App() {
@@ -7,17 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1 style={{textTransform:"uppercase"}}>Aitor Lancharro</h1>
+        <h2>Mechanical Engineer and Self-learning Full Stack Dev and UI/UX Design.</h2>
+        <p>In my day by day I work with CAD tools but in my spare time I try to learn new stuff and improve myself about coding.</p>
       </header>
     </div>
   );
