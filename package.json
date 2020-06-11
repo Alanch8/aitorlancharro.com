@@ -1,5 +1,5 @@
 {
-  "name": "alanch8.com",
+  "name": "aitorlancharro.com",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://alanch8.com",
+  "homepage": "https://aitorlancharro.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
