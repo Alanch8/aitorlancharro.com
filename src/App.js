@@ -1,19 +1,20 @@
 import React from "react";
-import profilepic from "./Aitor-Lancharro.png";
-import ham from "./ham.svg";
-import exit from "./exit.svg";
-import cadcam from "./CadCam-Design.svg";
-import production from "./Production.svg";
-import treeDPrinting from "./3dprinting.svg";
-import coding from "./Coding.svg";
-import htmlcss from "./htmlcss.svg";
-import nodejs from "./nodejs.svg";
-import python from "./Python.svg";
-import whatsapp from "./whatsapp-icon-white.svg";
-import envelope from "./Envelope-white.svg";
-import linkedin from "./LinkedIn-white.svg";
-import github from "./Github-white.svg";
 import "./App.css";
+
+import profilepic from "./Aitor-Lancharro.png";
+import ham from "./svg/ham.svg";
+import exit from "./svg/exit.svg";
+import cadCam from "./svg/CadCam-Design.svg";
+import production from "./svg/Production.svg";
+import treeDPrinting from "./svg/3dprinting.svg";
+import coding from "./svg/Coding.svg";
+import htmlcss from "./svg/htmlcss.svg";
+import nodejs from "./svg/nodejs.svg";
+import python from "./svg/Python.svg";
+import whatsapp from "./svg/whatsapp-icon-white.svg";
+import envelope from "./svg/Envelope-white.svg";
+import linkedin from "./svg/LinkedIn-white.svg";
+import github from "./svg/Github-white.svg";
 
 function App() {
   return (
@@ -53,17 +54,17 @@ function App() {
         </header>
         <section>
           <img src={profilepic} className="app-profilepic" alt="logo" />
-          <h1 style={{ textTransform: "uppercase" }}>Aitor Lancharro</h1>
-          <h2>
+          <h1 className="main" style={{ textTransform: "uppercase" }}>Aitor Lancharro</h1>
+          <h2 className="presentation">
             Mechanical Engineer and Self-learning Full Stack Dev and UI/UX
             Design.
           </h2>
           <hr className="hr-home"></hr>
-          <p>
+          <p className="abstract">
             In my day by day I work with CAD tools but in my spare time I try to
             learn new stuff and improve myself about coding.
           </p>
-          <button>More About me</button>
+          <a className="mam">More About me</a>
         </section>
       </div>
 
@@ -79,7 +80,7 @@ function App() {
           <h2>Skills</h2>
           <ul className="skills">
             <li>
-              <img src={cadcam} className="cadcam" alt="logo" />
+              <img src={cadCam} className="cadcam" alt="logo" />
             </li>
             <li>
               <img src={production} className="cadcam" alt="logo" />
@@ -119,6 +120,7 @@ function App() {
           <button>Get my Resume</button>
         </div>
       </div>
+
       <div className="contact-container">
         <div className="container">
           <h1>Contact</h1>
@@ -137,12 +139,13 @@ function App() {
           </form>
         </div>
       </div>
+
       <footer>
         <div className="footer-container">
           <div className="container">
             <h1>Aitor Lancharro</h1>
             <img src={whatsapp} className="whatsapp" alt="whatsapp-icon"></img>
-            <p>+34 665 633 071</p>
+            <p></p>
             <img src={envelope} className="envelope" alt="envelope"></img>
             <p>aitor.lancharro@gmail.com</p>
             <hr></hr>
