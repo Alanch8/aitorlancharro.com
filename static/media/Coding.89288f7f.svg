@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="294" height="57" viewBox="0 0 294 57">
+  <g id="Coding" transform="translate(-270 -1847)">
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="294" height="20" rx="10" transform="translate(270 1884)" fill="rgba(29,29,27,0.2)"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="193" height="20" rx="10" transform="translate(270 1884)" fill="rgba(29,29,27,0.8)"/>
+    <text id="coding-2" data-name="coding" transform="translate(320 1874)" fill="#24292e" font-size="20" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">CODING</tspan></text>
+    <text id="_" data-name="&gt;" transform="translate(279 1865)" fill="#24292e" font-size="15" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">&gt;</tspan></text>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(273 1849)" fill="rgba(70,70,70,0.3)" stroke="#24292e" stroke-linecap="round" stroke-width="1.5">
+      <rect width="39" height="28" rx="6" stroke="none"/>
+      <rect x="0.75" y="0.75" width="37.5" height="26.5" rx="5.25" fill="none"/>
+    </g>
+    <text id="_2" data-name="_" transform="translate(290 1862)" fill="#24292e" font-size="15" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">_</tspan></text>
+  </g>
+</svg>
