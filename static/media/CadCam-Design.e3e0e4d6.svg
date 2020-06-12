@@ -1,4 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="294" height="62" viewBox="0 0 294 62">
+<style>
+@font-face {
+    font-family: "Montserrat";
+    src: url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap;charset=utf-8;base64,...");
+}
+</style>
   <g id="CadCam-Design" transform="translate(-268 -1708)">
     <rect id="Rectangle_4" data-name="Rectangle 4" width="294" height="20" rx="10" transform="translate(268 1750)" fill="rgba(29,29,27,0.2)"/>
     <rect id="Rectangle_5" data-name="Rectangle 5" width="264" height="20" rx="10" transform="translate(268 1750)" fill="rgba(29,29,27,0.8)"/>

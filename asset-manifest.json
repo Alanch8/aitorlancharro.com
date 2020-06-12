@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.e86fa1a5.chunk.css",
-    "main.js": "/static/js/main.2a1db44a.chunk.js",
-    "main.js.map": "/static/js/main.2a1db44a.chunk.js.map",
+    "main.js": "/static/js/main.cacf936a.chunk.js",
+    "main.js.map": "/static/js/main.cacf936a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.26f06568.js",
     "runtime-main.js.map": "/static/js/runtime-main.26f06568.js.map",
     "static/js/2.223ca0d6.chunk.js": "/static/js/2.223ca0d6.chunk.js",
     "static/js/2.223ca0d6.chunk.js.map": "/static/js/2.223ca0d6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fdfe79b6f02790a1010ced2b76dba1ea.js": "/precache-manifest.fdfe79b6f02790a1010ced2b76dba1ea.js",
+    "precache-manifest.7e9db45b5d979d3c9f748ffaf91e7ced.js": "/precache-manifest.7e9db45b5d979d3c9f748ffaf91e7ced.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.e86fa1a5.chunk.css.map": "/static/css/main.e86fa1a5.chunk.css.map",
     "static/js/2.223ca0d6.chunk.js.LICENSE.txt": "/static/js/2.223ca0d6.chunk.js.LICENSE.txt",
-    "static/media/3dprinting.svg": "/static/media/3dprinting.1dfaf4e0.svg",
+    "static/media/3dprinting.svg": "/static/media/3dprinting.fa972513.svg",
     "static/media/Aitor-Lancharro.png": "/static/media/Aitor-Lancharro.6df132cc.png",
-    "static/media/CadCam-Design.svg": "/static/media/CadCam-Design.3486a015.svg",
+    "static/media/CadCam-Design.svg": "/static/media/CadCam-Design.e3e0e4d6.svg",
     "static/media/Coding.svg": "/static/media/Coding.89288f7f.svg",
     "static/media/Envelope-white.svg": "/static/media/Envelope-white.dda6aa4e.svg",
     "static/media/Github-white.svg": "/static/media/Github-white.c276ba17.svg",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.26f06568.js",
     "static/js/2.223ca0d6.chunk.js",
     "static/css/main.e86fa1a5.chunk.css",
-    "static/js/main.2a1db44a.chunk.js"
+    "static/js/main.cacf936a.chunk.js"
   ]
 }
