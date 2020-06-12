@@ -150,8 +150,8 @@ function App() {
             <p>aitor.lancharro@gmail.com</p>
             <hr></hr>
             <p>© 2020 Aitor Lancharro. All Rights Reserved.</p>
-            <img src={linkedin} className="linkedin" alt="linkedin-icon"></img>
-            <img src={github} className="github" alt="github-icon"></img>
+            <a href="https://www.linkedin.com/in/aitorlancharrohurtado/"><img src={linkedin} className="linkedin" alt="linkedin-icon"></img></a>
+            <a href="https://github.com/Alanch8"><img src={github} className="github" alt="github-icon"></img></a>
           </div>
         </div>
       </footer>
